@@ -1,2 +1,2 @@
 # GoogleMaps_Overlays
-Small code sample to use overlays in Google Maps + PHP.
+Small code sample to use multiple overlays in Google Maps (PHP).
